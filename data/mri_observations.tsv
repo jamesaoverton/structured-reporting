@@ -1,0 +1,7 @@
+ID	Lesion	Type	Observed	Hyperintense	Isointense	Hypointense	Rim
+1	1	T1	TRUE	FALSE	TRUE	FALSE	continuous
+2	1	T2	TRUE	FALSE	FALSE	FALSE	discontinous
+3	1	diffusion	TRUE	TRUE	TRUE	FALSE	none
+4	1	ADC	TRUE	FALSE	TRUE	FALSE	none
+5	1	early	TRUE	FALSE	FALSE	TRUE	none
+6	1	late	FALSE	FALSE	FALSE	FALSE	none

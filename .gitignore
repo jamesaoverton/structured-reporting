@@ -1,0 +1,13 @@
+.DS_Store
+pom.xml
+*jar
+/lib/
+/classes/
+/out/
+/target/
+.lein-deps-sum
+.lein-env
+.lein-repl-history
+.lein-plugins/
+.repl/
+/dev-resources/public/js/*

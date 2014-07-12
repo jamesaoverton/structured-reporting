@@ -1,0 +1,2 @@
+ID	Patient	Date of Exam	Date of Report	Modality	Prostate Size Transverse	Prostate Size Anterior-Posterior	Prostate Size Longitudinal	Measured PSA	BPH Change	Peripheral Zone Diffuse Anomaly	Transition Zone Diffuse Anomaly	Seminal Vesicles	Technique	Conclusions
+1	1	2012-07-01	2012-07-01	MRI	40	42	59	6	moderate	hyperintense	none	normal	"The exam was performed at 3T, with an endorectal coil. The following sequences were performed: Saggital, axial, and coronal T2 weighted; DWI with b values 100 and 800; ADC map; T1 weighted dynamic contrast enhancement."	This is a conclusion.
