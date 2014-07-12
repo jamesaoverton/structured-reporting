@@ -9,16 +9,16 @@ Make sure you have [Leiningen](http://leiningen.org) installed, then:
 
 1. Check out this repository:
 
-    git clone https://github.com/jamesaoverton/structured-reporting.git
-    cd structure-reporting
+        git clone https://github.com/jamesaoverton/structured-reporting.git
+        cd structure-reporting
 
 2. Convert the tables in `data` to the file `src/cljs/structured_reporting/data.cljs` (using the code in `src/clj/structured_reporting/convert.clj`):
 
-    lein run
+        lein run
 
 3. Compile all the ClojureScript code in `src/cljs` to a single JavaScript file (`dev-sources/public/js/structured_reporting.js`):
 
-    lein cljsbuild once
+        lein cljsbuild once
 
 4. Open the `dev-resources/public/index.html` file in your browser.
 
